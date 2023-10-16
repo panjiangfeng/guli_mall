@@ -14,5 +14,7 @@
     <module>guli_mall_member</module>
     <module>guli_mall_product</module>
     <module>guli_mall_coupon</module>
+    <module>renren-fast</module>
+    <module>renren-generator</module>
   </modules>
 </project>
