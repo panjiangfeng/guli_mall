@@ -16,6 +16,6 @@
     <module>guli_mall_coupon</module>
     <module>renren-fast</module>
     <module>renren-generator</module>
-
+    <module>guli_mall_common</module>
   </modules>
 </project>
