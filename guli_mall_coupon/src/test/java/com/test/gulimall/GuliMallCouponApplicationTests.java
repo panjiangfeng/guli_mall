@@ -1,4 +1,4 @@
-package com.test.guli_mall_coupon;
+package com.test.gulimall;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

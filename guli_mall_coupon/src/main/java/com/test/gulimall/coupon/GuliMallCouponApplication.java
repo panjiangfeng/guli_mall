@@ -1,4 +1,4 @@
-package com.test.guli_mall_coupon;
+package com.test.gulimall.coupon;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
